@@ -57,6 +57,6 @@
 Этот проект распространяется под лицензией **GNU General Public License v3.0**.  
 Вы можете свободно использовать, модифицировать и распространять данный код при условии сохранения авторских прав и открытости исходного кода.
 
-Подробнее: [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
+Подробнее: [GNU GPLv3](https://ru.wikipedia.org/wiki/GNU_General_Public_License)
 
 \
