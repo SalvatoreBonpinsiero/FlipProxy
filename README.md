@@ -8,8 +8,18 @@
 <br>
 
 <div align="center">
-  <h1>FlipProxy</h1>
-  <h3>Прокси для всех. Быстро. Безопасно. Доступно.</h3>
+  <a href="https://i.pinimg.com/originals/cf/cd/ab/cfcdabce43056998a05b4263e10c45d1.jpg" target="_blank">
+    <img src="https://i.pinimg.com/originals/cf/cd/ab/cfcdabce43056998a05b4263e10c45d1.jpg" alt="FlipProxy Background" width="100%" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=500&color=00C853&center=true&vCenter=true&width=500&height=70&lines=FlipProxy" alt="FlipProxy" />
+  </h1>
+  <h3 style="color: #00C853;">🚀 Прокси для всех. Быстро. Безопасно. Доступно.</h3>
   <br>
 </div>
 
@@ -23,11 +33,11 @@
 
 | Возможность | Описание |
 |-------------|----------|
-| Высокая производительность | Минимальная задержка и быстрая обработка запросов |
-| Безопасность | Надежное шифрование и защита трафика |
-| Простота | Интуитивно понятное управление и настройка |
-| Гибкость | Адаптивная конфигурация под любые задачи |
-| Мониторинг | Встроенная система логирования и аналитики |
+| 🚀 Высокая производительность | Минимальная задержка и быстрая обработка запросов |
+| 🔒 Безопасность | Надежное шифрование и защита трафика |
+| 🎯 Простота | Интуитивно понятное управление и настройка |
+| ⚙️ Гибкость | Адаптивная конфигурация под любые задачи |
+| 📊 Мониторинг | Встроенная система логирования и аналитики |
 
 ---
 
@@ -59,4 +69,8 @@
 
 Подробнее: [GNU GPLv3](https://ru.wikipedia.org/wiki/GNU_General_Public_License)
 
-\
+---
+
+<div align="center">
+  <sub>✨ Сделано с ❤️ для сообщества</sub>
+</div>
