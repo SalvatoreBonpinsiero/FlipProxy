@@ -8,71 +8,50 @@
 <br>
 
 <div align="center">
+  <!-- Зелёный фон с градиентом -->
   <table>
     <tr>
-      <td>
+      <td align="center" style="
+        background: linear-gradient(135deg, #004d1a, #00C853, #004d1a);
+        padding: 60px 40px;
+        border-radius: 20px;
+        border: 2px solid #00E676;
+        box-shadow: 0 0 50px rgba(0, 200, 83, 0.3);
+      ">
+        <!-- Затемнённый слой для читаемости -->
         <div style="
-          background-image: url('https://i.pinimg.com/originals/cf/cd/ab/cfcdabce43056998a05b4263e10c45d1.jpg');
-          background-size: cover;
-          background-position: center;
-          background-repeat: no-repeat;
-          padding: 80px 40px;
-          border-radius: 20px;
-          box-shadow: 0 10px 40px rgba(0,0,0,0.5);
-          border: 2px solid rgba(0, 200, 83, 0.3);
-          position: relative;
-          min-width: 300px;
+          background: rgba(0, 30, 0, 0.6);
+          padding: 30px 50px;
+          border-radius: 15px;
+          border: 1px solid rgba(0, 230, 118, 0.3);
         ">
-          <!-- Затемнение для читаемости текста -->
-          <div style="
-            background: rgba(0, 0, 0, 0.5);
-            backdrop-filter: blur(8px);
-            -webkit-backdrop-filter: blur(8px);
-            padding: 30px 50px;
-            border-radius: 15px;
-            border: 1px solid rgba(0, 200, 83, 0.2);
+          <!-- Переливающаяся надпись -->
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=60&duration=2000&pause=1000&color=00E676&center=true&vCenter=true&repeat=true&width=500&height=80&lines=FlipProxy" alt="FlipProxy" />
+          
+          <h3 style="
+            color: #69F0AE;
+            margin-top: 10px;
+            font-size: 24px;
+            font-weight: 300;
+            letter-spacing: 2px;
+            text-shadow: 0 0 20px rgba(0, 200, 83, 0.3);
           ">
-            <h1 style="
-              font-size: 70px;
-              font-weight: 900;
-              margin: 0;
-              background: linear-gradient(90deg, #00C853, #69F0AE, #00C853, #69F0AE);
-              background-size: 300% 100%;
-              -webkit-background-clip: text;
-              -webkit-text-fill-color: transparent;
-              background-clip: text;
-              animation: shimmer 3s ease-in-out infinite;
-              text-shadow: 0 0 40px rgba(0, 200, 83, 0.3);
-              letter-spacing: 4px;
-            ">
-              FlipProxy
-            </h1>
-            <h3 style="
-              color: #69F0AE;
-              margin-top: 10px;
-              font-size: 24px;
-              font-weight: 300;
-              letter-spacing: 2px;
-              text-shadow: 0 0 20px rgba(0, 200, 83, 0.2);
-            ">
-              🚀 Прокси для всех. Быстро. Безопасно. Доступно.
-            </h3>
-          </div>
+            🚀 Прокси для всех. Быстро. Безопасно. Доступно.
+          </h3>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<style>
-  @keyframes shimmer {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-</style>
-
 <br>
+
+<div align="center">
+  <!-- Альтернативная переливающаяся надпись (градиентный текст) -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=500&color=00E676&center=true&vCenter=true&repeat=true&width=450&height=70&lines=⚡+FlipProxy+⚡" alt="FlipProxy" />
+  </h1>
+</div>
 
 ---
 
@@ -124,4 +103,11 @@
 
 <div align="center">
   <sub>✨ Сделано с ❤️ для сообщества</sub>
+</div>
+
+<!-- Дополнительный зелёный разделитель -->
+<div align="center">
+  <img src="https://img.shields.io/badge/⬇️-Скачать%20FlipProxy-00C853?style=for-the-badge" alt="Download">
+  <img src="https://img.shields.io/badge/🐛-Сообщить%20об%20ошибке-00C853?style=for-the-badge" alt="Bug Report">
+  <img src="https://img.shields.io/badge/💬-Чат-00C853?style=for-the-badge" alt="Chat">
 </div>
