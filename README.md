@@ -8,20 +8,71 @@
 <br>
 
 <div align="center">
-  <a href="https://i.pinimg.com/originals/cf/cd/ab/cfcdabce43056998a05b4263e10c45d1.jpg" target="_blank">
-    <img src="https://i.pinimg.com/originals/cf/cd/ab/cfcdabce43056998a05b4263e10c45d1.jpg" alt="FlipProxy Background" width="100%" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-  </a>
+  <table>
+    <tr>
+      <td>
+        <div style="
+          background-image: url('https://i.pinimg.com/originals/cf/cd/ab/cfcdabce43056998a05b4263e10c45d1.jpg');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+          padding: 80px 40px;
+          border-radius: 20px;
+          box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+          border: 2px solid rgba(0, 200, 83, 0.3);
+          position: relative;
+          min-width: 300px;
+        ">
+          <!-- Затемнение для читаемости текста -->
+          <div style="
+            background: rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            padding: 30px 50px;
+            border-radius: 15px;
+            border: 1px solid rgba(0, 200, 83, 0.2);
+          ">
+            <h1 style="
+              font-size: 70px;
+              font-weight: 900;
+              margin: 0;
+              background: linear-gradient(90deg, #00C853, #69F0AE, #00C853, #69F0AE);
+              background-size: 300% 100%;
+              -webkit-background-clip: text;
+              -webkit-text-fill-color: transparent;
+              background-clip: text;
+              animation: shimmer 3s ease-in-out infinite;
+              text-shadow: 0 0 40px rgba(0, 200, 83, 0.3);
+              letter-spacing: 4px;
+            ">
+              FlipProxy
+            </h1>
+            <h3 style="
+              color: #69F0AE;
+              margin-top: 10px;
+              font-size: 24px;
+              font-weight: 300;
+              letter-spacing: 2px;
+              text-shadow: 0 0 20px rgba(0, 200, 83, 0.2);
+            ">
+              🚀 Прокси для всех. Быстро. Безопасно. Доступно.
+            </h3>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<style>
+  @keyframes shimmer {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
 
 <br>
-
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=500&color=00C853&center=true&vCenter=true&width=500&height=70&lines=FlipProxy" alt="FlipProxy" />
-  </h1>
-  <h3 style="color: #00C853;">🚀 Прокси для всех. Быстро. Безопасно. Доступно.</h3>
-  <br>
-</div>
 
 ---
 
